@@ -1,0 +1,374 @@
+{
+  "trackSections": {
+    "TPE_041": {
+      "type": "track",
+      "svgPath": "TPE_041",
+      "svgText": "text041"
+    },
+    "TPE_042": {
+      "type": "track",
+      "svgPath": "TPE_042",
+      "svgText": "text042"
+    },
+    "TPE_043": {
+      "type": "track",
+      "svgPath": "TPE_043",
+      "svgText": "text043"
+    },
+    "TPE_044": {
+      "type": "track",
+      "svgPath": "TPE_044",
+      "svgText": "text044"
+    },
+    "TPE_170": {
+      "type": "track",
+      "svgPath": "TPE_170",
+      "svgText": "text170"
+    },
+    "TPE_181": {
+      "type": "track",
+      "svgPath": "TPE_181",
+      "svgText": "text181"
+    },
+    "TPE_182": {
+      "type": "track",
+      "svgPath": "TPE_182",
+      "svgText": "text182"
+    },
+    "TPE_191": {
+      "type": "track",
+      "svgPath": "TPE_191",
+      "svgText": "text191"
+    },
+    "TPE_192": {
+      "type": "track",
+      "svgPath": "TPE_192",
+      "svgText": "text192"
+    },
+    "TPE_193": {
+      "type": "track",
+      "svgPath": "TPE_193",
+      "svgText": "text193"
+    },
+    "TPE_771": {
+      "type": "track",
+      "svgPath": "TPE_771",
+      "svgText": "text771"
+    },
+    "TPE_772": {
+      "type": "track",
+      "svgPath": "TPE_772",
+      "svgText": "text772"
+    },
+    "TPE_AP771": {
+      "type": "track",
+      "svgPath": "TPE_771",
+      "svgText": "text771"
+    },
+    "TPE_AP772": {
+      "type": "track",
+      "svgPath": "TPE_772",
+      "svgText": "text772"
+    },
+    "TPE_V051": {
+      "type": "turnout",
+      "trackParts": [
+        {
+          "previousTrackSection": [
+            "TPE_V171"
+          ],
+          "nextTrackSection": [
+            "TPE_O042",
+            "TPE_042"
+          ],
+          "svgPath": "TPE_V051_0"
+        },
+        {
+          "previousTrackSection": [
+            "TPE_V171"
+          ],
+          "nextTrackSection": [
+            "TPE_V062"
+          ],
+          "svgPath": "TPE_V051_1"
+        }
+      ],
+      "svgText": "text051"
+    },
+    "TPE_V054": {
+      "type": "turnout",
+      "trackParts": [
+        {
+          "previousTrackSection": [
+            "TPE_E193",
+            "TPE_T193",
+            "TPE_193"
+          ],
+          "nextTrackSection": [
+            "TPE_V062"
+          ],
+          "svgPath": "TPE_V054_0"
+        },
+        {
+          "previousTrackSection": [
+            "TPE_E193",
+            "TPE_T193",
+            "TPE_193"
+          ],
+          "nextTrackSection": [
+            "TPE_O043",
+            "TPE_043"
+          ],
+          "svgPath": "TPE_V054_1"
+        }
+      ],
+      "svgText": "text054"
+    },
+    "TPE_V060": {
+      "type": "track",
+      "svgPath": "TPE_V060",
+      "svgText": "text060"
+    },
+    "TPE_V062": {
+      "type": "turnout",
+      "trackParts": [
+        {
+          "previousTrackSection": [
+            "TPE_V060"
+          ],
+          "nextTrackSection": [
+            "TPE_V054"
+          ],
+          "svgPath": "TPE_V062_0"
+        },
+        {
+          "previousTrackSection": [
+            "TPE_V060"
+          ],
+          "nextTrackSection": [
+            "TPE_V051"
+          ],
+          "svgPath": "TPE_V062_1"
+        }
+      ],
+      "svgText": "text062"
+    },
+    "TPE_V160": {
+      "type": "turnout",
+      "trackParts": [
+        {
+          "previousTrackSection": [
+            "TPE_T044",
+            "TPE_044"
+          ],
+          "nextTrackSection": [
+            "TPE_O041",
+            "TPE_041"
+          ],
+          "svgPath": "TPE_V160_0"
+        },
+        {
+          "previousTrackSection": [
+            "TPE_T044",
+            "TPE_044"
+          ],
+          "nextTrackSection": [
+            "TPE_V161"
+          ],
+          "svgPath": "TPE_V160_1"
+        }
+      ]
+    },
+    "TPE_V161": {
+      "type": "track",
+      "svgPath": "TPE_V161_1"
+    },
+    "TPE_V171": {
+      "type": "turnout",
+      "trackParts": [
+        {
+          "previousTrackSection": [
+            "TPE_V051"
+          ],
+          "nextTrackSection": [
+            "TPE_E192",
+            "TPE_T192",
+            "TPE_192"
+          ],
+          "svgPath": "TPE_V171_0"
+        },
+        {
+          "previousTrackSection": [
+            "TPE_V051"
+          ],
+          "nextTrackSection": [
+            "TPE_V172"
+          ],
+          "svgPath": "TPE_V171_1"
+        }
+      ],
+      "svgText": "text171"
+    },
+    "TPE_V172": {
+      "type": "turnout",
+      "trackParts": [
+        {
+          "previousTrackSection": [
+            "TPE_E191",
+            "TPE_T191",
+            "TPE_191"
+          ],
+          "nextTrackSection": [
+            "TPE_O044",
+            "TPE_044"
+          ],
+          "svgPath": "TPE_V172_0"
+        },
+        {
+          "previousTrackSection": [
+            "TPE_E191",
+            "TPE_T191",
+            "TPE_191"
+          ],
+          "nextTrackSection": [
+            "TPE_V171"
+          ],
+          "svgPath": "TPE_V172_1"
+        }
+      ]
+    },
+    "TPE_V174": {
+      "type": "turnout",
+      "trackParts": [
+        {
+          "previousTrackSection": [
+            "TPE_182"
+          ],
+          "nextTrackSection": [
+            "TPE_P192",
+            "TPE_192"
+          ],
+          "svgPath": "TPE_V174_0"
+        },
+        {
+          "previousTrackSection": [
+            "TPE_182"
+          ],
+          "nextTrackSection": [
+            "TPE_P193",
+            "TPE_193"
+          ],
+          "svgPath": "TPE_V174_1"
+        }
+      ],
+      "svgText": "text174"
+    }
+  },
+  "signals": {
+    "E191": {
+      "type": "main",
+      "previousTrackSection": "TPE_191",
+      "svgPath": "E191",
+      "nextTrackSection": "TPE_V172",
+      "connectedSignal": "T191"
+    },
+    "E192": {
+      "type": "main",
+      "previousTrackSection": "TPE_192",
+      "svgPath": "E192",
+      "nextTrackSection": "TPE_V171",
+      "connectedSignal": "T192"
+    },
+    "E193": {
+      "type": "main",
+      "previousTrackSection": "TPE_193",
+      "svgPath": "E193",
+      "nextTrackSection": "TPE_V054",
+      "connectedSignal": "T193"
+    },
+    "E771": {
+      "type": "main",
+      "previousTrackSection": "TPE_771",
+      "svgPath": "E771",
+      "nextTrackSection": "TPE_181"
+    },
+    "E772": {
+      "type": "main",
+      "previousTrackSection": "TPE_772",
+      "svgPath": "E772",
+      "nextTrackSection": "TPE_182"
+    },
+    "O041": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_041",
+      "svgPath": "O041",
+      "nextTrackSection": "TPE_V160"
+    },
+    "O042": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_042",
+      "svgPath": "O042",
+      "nextTrackSection": "TPE_V051"
+    },
+    "O043": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_043",
+      "svgPath": "O043",
+      "nextTrackSection": "TPE_V054"
+    },
+    "O044": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_044",
+      "svgPath": "O044",
+      "nextTrackSection": "TPE_V172"
+    },
+    "O170": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_170",
+      "svgPath": "O170",
+      "nextTrackSection": "TPE_V161"
+    },
+    "P191": {
+      "type": "main",
+      "previousTrackSection": "TPE_191",
+      "svgPath": "P191",
+      "nextTrackSection": "TPE_181"
+    },
+    "P192": {
+      "type": "main",
+      "previousTrackSection": "TPE_192",
+      "svgPath": "P192",
+      "nextTrackSection": "TPE_V174"
+    },
+    "P193": {
+      "type": "main",
+      "previousTrackSection": "TPE_193",
+      "svgPath": "P193",
+      "nextTrackSection": "TPE_V174"
+    },
+    "T044": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_044",
+      "svgPath": "T044",
+      "nextTrackSection": "TPE_V160"
+    },
+    "T191": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_191",
+      "svgPath": "T191",
+      "nextTrackSection": "TPE_V172"
+    },
+    "T192": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_192",
+      "svgPath": "T192",
+      "nextTrackSection": "TPE_V171"
+    },
+    "T193": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_193",
+      "svgPath": "T193",
+      "nextTrackSection": "TPE_V054"
+    }
+  }
+}
