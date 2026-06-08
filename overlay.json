@@ -20,6 +20,11 @@
       "svgPath": "TPE_044",
       "svgText": "text044"
     },
+    "TPE_045": {
+      "type": "track",
+      "svgPath": "TPE_045",
+      "svgText": "text045"
+    },
     "TPE_170": {
       "type": "track",
       "svgPath": "TPE_170",
@@ -116,25 +121,21 @@
             "TPE_193"
           ],
           "nextTrackSection": [
-            "TPE_O043",
-            "TPE_043"
+            "TPE_O045",
+            "TPE_045"
           ],
           "svgPath": "TPE_V054_1"
         }
       ],
       "svgText": "text054"
     },
-    "TPE_V060": {
-      "type": "track",
-      "svgPath": "TPE_V060",
-      "svgText": "text060"
-    },
     "TPE_V062": {
       "type": "turnout",
       "trackParts": [
         {
           "previousTrackSection": [
-            "TPE_V060"
+            "TPE_O043",
+            "TPE_043"
           ],
           "nextTrackSection": [
             "TPE_V054"
@@ -143,15 +144,15 @@
         },
         {
           "previousTrackSection": [
-            "TPE_V060"
+            "TPE_O043",
+            "TPE_043"
           ],
           "nextTrackSection": [
             "TPE_V051"
           ],
           "svgPath": "TPE_V062_1"
         }
-      ],
-      "svgText": "text062"
+      ]
     },
     "TPE_V160": {
       "type": "turnout",
@@ -314,13 +315,19 @@
       "type": "shunting",
       "previousTrackSection": "TPE_043",
       "svgPath": "O043",
-      "nextTrackSection": "TPE_V054"
+      "nextTrackSection": "TPE_V062"
     },
     "O044": {
       "type": "shunting",
       "previousTrackSection": "TPE_044",
       "svgPath": "O044",
       "nextTrackSection": "TPE_V172"
+    },
+    "O045": {
+      "type": "shunting",
+      "previousTrackSection": "TPE_045",
+      "svgPath": "O045",
+      "nextTrackSection": "TPE_V054"
     },
     "O170": {
       "type": "shunting",
