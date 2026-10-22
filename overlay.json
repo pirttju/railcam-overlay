@@ -1,4 +1,69 @@
 {
+  "departuresBoard": [
+    {
+      "row": 1,
+      "fields": [
+        {
+          "type": "direction",
+          "svgText": "rtt-direction-1"
+        },
+        {
+          "type": "time",
+          "svgText": "rtt-time-1"
+        },
+        {
+          "type": "train",
+          "svgText": "rtt-train-1"
+        },
+        {
+          "type": "destination",
+          "svgText": "rtt-destination-1"
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "fields": [
+        {
+          "type": "direction",
+          "svgText": "rtt-direction-2"
+        },
+        {
+          "type": "time",
+          "svgText": "rtt-time-2"
+        },
+        {
+          "type": "train",
+          "svgText": "rtt-train-2"
+        },
+        {
+          "type": "destination",
+          "svgText": "rtt-destination-2"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "fields": [
+        {
+          "type": "direction",
+          "svgText": "rtt-direction-3"
+        },
+        {
+          "type": "time",
+          "svgText": "rtt-time-3"
+        },
+        {
+          "type": "train",
+          "svgText": "rtt-train-3"
+        },
+        {
+          "type": "destination",
+          "svgText": "rtt-destination-3"
+        }
+      ]
+    }
+  ],
   "trackSections": {
     "TPE_041": {
       "type": "track",
